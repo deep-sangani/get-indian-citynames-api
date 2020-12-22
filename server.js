@@ -2,7 +2,7 @@ const express = require("express")
 const app = express()
 const cities = require("./cities.json")
 
-const port = 3300 || process.env.port
+const port = 3300 || process.env.PORT
 
 app.use(express.urlencoded({extended:false}))
 app.use(express.json())
