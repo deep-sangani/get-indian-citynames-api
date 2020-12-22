@@ -22,6 +22,10 @@ app.post('/api/:city',(req,res)=>{
     res.json({cityname:foundcity})
 })
 
+app.get("/",(req,res)=>{
+    res.send("<h1>wel-come</h1>")
+})
+
 app.listen(port,()=>{
     console.log(`server is running on port no ${port}`);
 })
