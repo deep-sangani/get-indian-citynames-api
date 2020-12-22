@@ -2,7 +2,7 @@
   "name": "indian-city-api",
   "version": "1.0.0",
   "description": "this is api for finding all cities of india with district and latitude and longitudes",
-  "main": "index.js",
+  "main": "server.js",
   "author": "deep sangani(jetpur)",
   "license": "MIT",
   "private": false,
