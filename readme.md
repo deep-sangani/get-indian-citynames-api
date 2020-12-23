@@ -43,5 +43,5 @@ responce:
   }
 }
 ```
-> <center>MADE BY DEEP WITH ❤️❤️</center>
+> <h2 align="center">MADE BY DEEP WITH ❤️❤️</h2>
 
