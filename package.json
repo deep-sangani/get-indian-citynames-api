@@ -6,6 +6,10 @@
   "author": "deep sangani(jetpur)",
   "license": "MIT",
   "private": false,
+  "engines":{
+    "node": "10.19.0"
+
+  },
   "scripts": {
     "dev":"nodemon server",
     "start":"node server.js"
